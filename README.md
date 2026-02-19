@@ -13,7 +13,7 @@
 - [Good prompt design](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Amazon Nova Act](https://aws.amazon.com/nova/act/)
 - [Documentation of Nova Act](https://docs.aws.amazon.com/nova-act/latest/userguide/what-is-nova-act.html)
-- [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/\)
+- [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - [RAG - retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
