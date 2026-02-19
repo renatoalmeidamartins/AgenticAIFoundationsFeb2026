@@ -7,3 +7,4 @@
 
 ## Class links
 - [Definition of AI agents from AWS](https://aws.amazon.com/what-is/ai-agents/)
+- [Embeddings in Machine Learning](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
