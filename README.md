@@ -11,3 +11,5 @@
 = [Prompt engineering on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [COSTAR prompting framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Good prompt design](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Amazon Nova Act](https://aws.amazon.com/nova/act/)
+- [Documentation of Nova Act](https://docs.aws.amazon.com/nova-act/latest/userguide/what-is-nova-act.html)
