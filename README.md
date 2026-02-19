@@ -41,3 +41,4 @@
 - [S3 now supports vector buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors.html)
 - [A2A - agent to agent protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [moltbook - what agents do when nobody is looking](https://www.moltbook.com/)
+- [Agent core samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
