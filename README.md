@@ -7,3 +7,4 @@
 
 ## Class links
 - [Definition of AI agents from AWS](https://aws.amazon.com/what-is/ai-agents/)
+- my edit
