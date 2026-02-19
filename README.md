@@ -32,4 +32,6 @@
 - [Bedrock runtime examples uing the python SDK](https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock-runtime_code_examples.html)
 - [Langchain agents](https://docs.langchain.com/oss/python/langchain/agents)
 - [Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
-- [S3 now supports vector buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors.html)4
+- [S3 now supports vector buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors.html)
+- [A2A - agent to agent protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [moltbook - what agents do when nobody is looking](https://www.moltbook.com/)
