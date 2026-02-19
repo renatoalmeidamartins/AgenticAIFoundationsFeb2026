@@ -8,7 +8,7 @@
 ## Class links
 - [Definition of AI agents from AWS](https://aws.amazon.com/what-is/ai-agents/)
 - [Embeddings in Machine Learning](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
-= [Prompt engineering on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Prompt engineering on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [COSTAR prompting framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Good prompt design](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Amazon Nova Act](https://aws.amazon.com/nova/act/)
