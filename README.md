@@ -19,3 +19,4 @@
 - [RAG - retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [MCP - model context protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [MCP server list](https://github.com/modelcontextprotocol/servers)
+- [Kiro documentation](https://kiro.dev/)
